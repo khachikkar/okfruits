@@ -1,0 +1,22 @@
+
+.paddings{
+  padding: 0 100px;
+
+}
+
+@media(max-width:500px){
+  .paddings{
+    padding: 0 16px;
+  }
+}
+
+
+body {
+  margin: 0;
+  font-family: "Poppins";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
