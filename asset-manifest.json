@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/okfruits/static/css/main.66fa8de9.css",
+    "main.js": "/okfruits/static/js/main.c30aa8b1.js",
+    "static/js/453.e8093609.chunk.js": "/okfruits/static/js/453.e8093609.chunk.js",
+    "static/media/logo.svg": "/okfruits/static/media/logo.a8597b8d10a6cc92d1302a7f72dcada2.svg",
+    "index.html": "/okfruits/index.html",
+    "main.66fa8de9.css.map": "/okfruits/static/css/main.66fa8de9.css.map",
+    "main.c30aa8b1.js.map": "/okfruits/static/js/main.c30aa8b1.js.map",
+    "453.e8093609.chunk.js.map": "/okfruits/static/js/453.e8093609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66fa8de9.css",
+    "static/js/main.c30aa8b1.js"
+  ]
+}
